@@ -1,26 +1,43 @@
- 
+# 🌌 Space Mission to Hubble – MakeCode Arcade Game
 
+Explore the wonders of space through this interactive arcade-style game designed for educational fun and entertainment!
 
-> Open this page at [https://snehaghoshbarsha444.github.io/space-mission-to-hubble-game/](https://snehaghoshbarsha444.github.io/space-mission-to-hubble-game/)
+## 🚀 Play the Game
 
-## Use as Extension
+Experience the "Space Mission to Hubble" game in your browser:  
+🔗 [Play Now](https://snehaghoshbarsha444.github.io/space-mission-to-hubble-game/)
 
-This repository can be added as an **extension** in MakeCode.
+---
 
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/snehaghoshbarsha444/space-mission-to-hubble-game** and import
+## 🧩 Use as an Extension in MakeCode
 
-## Edit this project
+You can add this project as an **extension** to your own MakeCode Arcade project:
 
-To edit this repository in MakeCode.
+1. Visit [Microsoft MakeCode Arcade](https://arcade.makecode.com/)
+2. Start a **New Project**
+3. Click the gearwheel ⚙️ icon and select **Extensions**
+4. In the search bar, paste:  
+   `https://github.com/snehaghoshbarsha444/space-mission-to-hubble-game`
+5. Select and import the extension
 
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/snehaghoshbarsha444/space-mission-to-hubble-game** and click import
+---
+## 📬 **Contact Information**  
 
-#### Metadata (used for search, rendering)
+For inquiries or collaboration opportunities, connect via: 
+- **Email**: [Contact Me](mailto:miss.webdesigner0013@gmail.com)
+- **GitHub**: [GitHub Profile](https://github.com/SnehaghoshBarsha444)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/sneha-ghosh-technical-isopod075/)
+- **Twitter**: [@IsopodTechnical](https://x.com/IsopodTechnical)  
+- **Medium**: [Medium Profile](https://medium.com/@Technical_Isopod_075)
 
-* for PXT/arcade
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+## 🤝 Contributing
+Feel free to fork the repository, make improvements, and submit pull requests!
+⭐ **If you like this project, don't forget to give it a star!** ⭐
+
+---
+
+## 📜 License
+This project is licensed under the **MIT License**.
+
+---
+🎮 *Built with creativity and passion using MakeCode Arcade. Let the cosmic adventure begin!* 
